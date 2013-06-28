@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>iAmplify</id>
+    <version>1.0.0</version>
+    <authors>appendto</authors>
+    <owners>Indaco Systems</owners>
+    <description>pub-sub js, modified by Indaco Systems</description>
+    <projectUrl>http://amplifyjs.com/</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>upload</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+  <file src="lib/amplify.js" target="Content\Scripts\Lib\Vendor\Amplify\amplify.js" />
+  <file src="lib/amplify-vsdoc.js" target="Content\Scripts\Lib\Vendor\Amplify\amplify-vsdoc.js" />
+  </files>
+</package>
